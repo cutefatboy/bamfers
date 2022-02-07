@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xb0C39CC3150e495bE1867369CE57551935D9dECc",
+  "SCAN_LINK": "https://etherscan.io/address/0xb0c39cc3150e495be1867369ce57551935d9decc",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "bamfers",
+  "SYMBOL": "BAMF",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 69000000000000000,
+  "DISPLAY_COST": 0.069,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bamfers",
+  "SHOW_BACKGROUND": true
+}
